@@ -1,2 +1,3 @@
-name: Minun Jekyll-sivustoni GitHub Pagesilla
-theme: minima
+title: Jekyll:iä käyttävä sivusto
+description: Tervetuloa sivustolle!
+theme: jekyll-theme-cayman
