@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Viikko 2 - Jekyll ja CI/CD
+title: Viikko 2
 ---
 
 ## Jekyll-sivuston automatisointi GitHub Actionsilla
