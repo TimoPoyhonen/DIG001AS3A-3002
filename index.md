@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kotisivu
+title: Tervetuloa GitHb Pages-sivustolleni!
+description: Täältä löytyvät tehtävänpalautukset
 ---
 
-Tervetuloa kotisivulleni!
