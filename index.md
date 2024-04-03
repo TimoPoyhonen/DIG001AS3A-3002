@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jekylliä käyttävä sivusto
+title: Koti
 ---
 
 # Tervetuloa GitHub Pages-sivustolleni!
