@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Koti
+title: Etusivu
 ---
 
 # Tervetuloa GitHub Pages-sivustolleni!
