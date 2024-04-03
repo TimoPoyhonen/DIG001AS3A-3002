@@ -3,7 +3,7 @@ layout: default
 title: Viikko 2
 ---
 
-# GitHub Actions ja Jekyll-sivustojen automatisointi
+# Tehtävä 2
 
 GitHub Actions tarjoaa erinomaisen alustan **Jekyll-sivustojen automatisointiin**, mahdollistaen kehittäjien tehostaa ja yksinkertaistaa koodin päivitysten, sivuston rakennuksen ja julkaisuprosessin hallintaa. Automatisointiprosessi alkaa luomalla `.github/workflows/jekyll.yml` tiedoston projektin GitHub-repositorioon. Tämä määrittelytiedosto sisältää useita askelia: ympäristön valmistelun, riippuvuuksien asennuksen, sivuston rakennuksen ja lopulta sivuston julkaisun.
 
