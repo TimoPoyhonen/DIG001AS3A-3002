@@ -1,1 +1,12 @@
-vite-sovellus/
+vite-sovellus/node_modules/
+vite-sovellus/public
+vite-sovellus/src/
+vite-sovellus/.eslintrc.cjs
+vite-sovellus/.gitignore
+vite-sovellus/index.html
+vite-sovellus/package.json
+vite-sovellus/package-lock.json
+vite-sovellus/README.md
+vite-sovellus/tsconfig.json
+vite-sovellus/tsconfig.node.json
+vite-sovellus/vite.config.ts

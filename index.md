@@ -4,7 +4,7 @@ title: Etusivu
 ---
 
 # Tervetuloa GitHub Pages-sivustolleni!
-## Jekyll:iä käyttävä sivusto 
+#### Jekyll:iä käyttävä sivusto 
 
 Täältä löytyvät tehtäväpalautukset:
 
