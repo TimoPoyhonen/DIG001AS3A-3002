@@ -1,7 +1,8 @@
 title: Jekyll:iä käyttävä sivusto
-theme: just-the-docs
+
 remote_theme: pmarsceill/just-the-docs
 plugins:
 - just-the-docs
+
 description: Timo Pöyhönen
 
