@@ -10,4 +10,4 @@ Matomo on erinomainen työkalu sivuston analytiikkaan, sillä se tarjoaa syväll
 Lisäksi voisin seurata kävijöiden polkuja sivustolla, jolloin saisin arvokasta tietoa käyttäjäkokemuksen parantamiseksi ja mahdollisten esteiden poistamiseksi sivustolla navigoinnissa. Esimerkiksi voisin havaita, jos käyttäjät kohtaavat toistuvasti vaikeuksia tietyn toiminnon suorittamisessa ja reagoida siihen parantamalla kyseistä käyttöliittymän osa-aluetta. Näiden analytiikkatietojen avulla voisin tehdä perusteltuja päätöksiä sivuston kehittämiseksi ja markkinoinnin kohdentamiseksi tehokkaammin, mikä voi johtaa parempaan kävijäsitoutumiseen ja tulosten kasvuun.
 
 
-<iframe src="https://timopoyhonen.github.io/DIG001AS3A-3002/vko5/index.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="https://timopoyhonen.github.io/DIG001AS3A-3002/vko5/index.html" width="100%" height="600" style="border:none; border-radius:8px; "></iframe>
