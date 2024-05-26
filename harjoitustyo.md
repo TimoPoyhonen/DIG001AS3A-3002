@@ -53,3 +53,4 @@ Sivuston latautumisajat ovat erinomaiset sekä mobiilissa että desktopissa:
 Sivusto on teknisesti hyvin toteutettu ja responsiivinen kaikilla päätelaitteilla. Latausajat ovat erittäin hyvät sekä mobiilissa että desktopissa, mikä parantaa käyttökokemusta merkittävästi. Sivusto noudattaa parhaita käytäntöjä ja on hyvin saavutettavissa. Nämä tulokset viittaavat siihen, että sivusto on suunniteltu huolellisesti ja teknisesti hyvin toteutettu. Sivuston responsiivisuus, nopea latautuminen ja yhteensopivuus uusimpien selaimien kanssa varmistavat sujuvan käyttökokemuksen kaikille käyttäjille.
 
 <iframe src="https://harjoitustyo.vercel.app/" width="100%" height="600px" style="border:none; border-radius:8px"></iframe>
+<a href="https://harjoitustyo.vercel.app/">Linkki sivulle</a>
